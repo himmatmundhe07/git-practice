@@ -1,4 +1,5 @@
 // My codingGita Project Scripts
 
 function sayHello() {
-console.log('Hello from codingGita!');}
+console.log('Hello from codingGita!');
+}
