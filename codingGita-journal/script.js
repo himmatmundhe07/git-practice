@@ -3,3 +3,6 @@
 function sayHello() {
 console.log('Hello from codingGita!');
 }
+
+function showProjectInfo() {
+}
